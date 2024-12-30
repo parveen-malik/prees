@@ -1,0 +1,19 @@
+{
+    "name": "parveen-malik/prees",
+    "description": "An Elegant MarkDown-Powered blog for Laravel FrameWork",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ParveenMalik\\Prees\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "parveen malik",
+            "email": "malikparveen508@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "orchestra/testbench": "^9.9"
+    }
+}
